@@ -1,0 +1,41 @@
+body{
+	background-image: url("images/fundo.png");
+	font:16px Arial,Helvetica,sans-serif;
+
+}
+
+.cabecalho{
+	width: 900px;
+}
+
+
+.menu{
+	background: #c5c5b2;
+	color: #3d4a85;
+	padding:18px;
+}
+.sobre{
+	background-color: #e8e8d9;
+	padding: 10px;
+
+}
+.titulo2{
+	color:#828271;
+	font-size: 1.2em;
+}
+.rodape{
+	width: 900px;
+	text-align: center;
+}
+
+.imagens_borda{
+	width: 640px;
+	height: 425px;
+	border:8px solid #D4D4B1 ;
+}
+a{
+	text-decoration: none;
+	color:#4b566a;
+	font-weight: bold;
+	padding: 5px;
+}
